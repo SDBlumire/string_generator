@@ -7,6 +7,7 @@ description = """
 Generate a random string from a pattern, categories, and a random number generator.
 """
 keywords = ["random", "string", "wordgen", "generator", "word generator"]
+license = "GPL-2.0+"
 
 [dependencies]
 rand = "0.3"
