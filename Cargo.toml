@@ -6,7 +6,7 @@ repository = "https://github.com/SDBlumire/string_generator"
 description = """
 Generate a random string from a pattern, categories, and a random number generator.
 """
-keywords = ["random", "string", "wordgen", "generator", "word generator"]
+keywords = ["random", "string", "wordgen", "generator"]
 license = "GPL-2.0+"
 
 [dependencies]
